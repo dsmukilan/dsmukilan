@@ -32,7 +32,7 @@
 - 🐞 I’m currently working on Automated Insect Biomonitoring  
   
 
-- 🌱 I’m currently learning Pytorch and Python   
+- 🌱 I’m currently learning Python and Pytorch  
   
 
 - 🤔 Ask me about anything related to AI, Biodiversity, Sustainability & Policy    
