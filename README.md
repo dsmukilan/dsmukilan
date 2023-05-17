@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning Pytorch and Python   
   
 
-- ❓ Ask me about anything related to AI, Biodiversity, Sustainability & Policy.    
+- ❓ Ask me about anything related to AI, Biodiversity, Sustainability & Policy    
 
 
 </td><td valign="top" width="50%">
@@ -65,7 +65,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsmukilan&show_icons=true&theme=tokyonight&locale=en" alt="dsmukilan" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsmukilan&theme=highcontrast" alt="dsmukilan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsmukilan&theme=tokyonight-duo" alt="dsmukilan" /></p>
 
 <br/>  
 
