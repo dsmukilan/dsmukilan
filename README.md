@@ -66,7 +66,7 @@
 
 <br/> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsmukilan&theme=tokyonight-duo" alt="dsmukilan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsmukilan&theme=tokyonight" alt="dsmukilan" /></p>
 
 
 
