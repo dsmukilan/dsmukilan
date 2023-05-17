@@ -32,7 +32,10 @@
 - 🌱 I’m currently learning Pytorch and Python   
   
 
-- ❓ Ask me about anything related to AI, Biodiversity, Sustainability & Policy    
+- 🤔 Ask me about anything related to AI, Biodiversity, Sustainability & Policy    
+  
+  
+- 🚩 GitHub Campus Expert in training  
 
 
 </td><td valign="top" width="50%">
