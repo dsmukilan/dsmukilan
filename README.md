@@ -64,7 +64,11 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dsmukilan&show_icons=true&theme=tokyonight&locale=en" alt="dsmukilan" /></p>
 
+<br/> 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsmukilan&theme=tokyonight-duo" alt="dsmukilan" /></p>
+
+
 
 <br/>  
 
