@@ -62,7 +62,7 @@
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsmukilan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dsmukilan" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dsmukilan&show_icons=true&theme=tokyonight&locale=en" alt="dsmukilan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsmukilan&show_icons=true&theme=tokyonight&locale=en" alt="dsmukilan" /></p>
 
 <br/> 
 
