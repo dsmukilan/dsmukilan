@@ -73,7 +73,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dsmukilan&&style=flat-square" align="center" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dsmukilan&label=Profile%20views&color=186c37&style=plastic" alt="dsmukilan" /> </p>
 </div>  
   
 
@@ -82,8 +82,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **dsmukilan/dsmukilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
