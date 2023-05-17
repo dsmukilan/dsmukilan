@@ -26,6 +26,9 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
+- 👨🏾‍🔬 I’m a PhD student at Newcastle University, UK
+  
+  
 - 🐞 I’m currently working on Automated Insect Biomonitoring  
   
 
