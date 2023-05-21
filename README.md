@@ -78,7 +78,7 @@
 
 <br/>  
 
- <p>https://github-profile-trophy.vercel.app/?dsmukilan=ryo-ma&theme=tokyonight<p>
+[![trophy](https://github-profile-trophy.vercel.app/?dsmukilan=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>  
 
