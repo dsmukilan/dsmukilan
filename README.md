@@ -38,7 +38,7 @@
 - 🤔 Ask me about anything related to AI, Biodiversity, Sustainability & Policy    
   
   
-- 🚩 GitHub Campus Expert in training  
+- 🚩 GitHub Campus Expert  
 
 
 </td><td valign="top" width="50%">
